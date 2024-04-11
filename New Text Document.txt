@@ -1,1 +1,1 @@
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, scales } from 'chart.js';
+import { Chart as ChartJS, ArcElement, Tooltip, Title, Legend, CategoryScale, LinearScale, PointElement, LineElement } from "chart.js";
